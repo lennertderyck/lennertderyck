@@ -5,10 +5,10 @@ Let me introduce my self.
 
 My name is Lennert as you will already have noticed and I'm a student Front-end-develoment at Artevelde University College Ghent. 
 
-I like clean design, nice illustrations and stunning photography; With a lot of passion for the profession. You  recognize my style by the generous use of white space, just enough letter spacing and a nice contrast that is created by combining fonts. I have a background in graphic design so I try to combine code and design in the best possible way.
+I like clean design, nice illustrations and stunning photography; With a lot of passion for the profession. You  recognize my style by the generous use of white space, just enough letter spacing and a nice contrast that is created by combining fonts.
 
-Nowadays I focus on webdesign & -development, but my passion for print is still there. 
-Tactile, tangible, analog, as only one medium can.
+Nowadays I focus on webdesign & -development, but my passion for print is still there. Tactile, tangible, analog, as only one medium can. With a background in graphic design I try to combine code and design in the best possible way.
+
 
 ### My work
 _ Personal 👉 [lennertderyck.be](https://beta.lennertderyck.be)<br>
