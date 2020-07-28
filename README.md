@@ -25,6 +25,8 @@ Oh, and I like cheese
 
 a lot
 
+---
+
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennertderyck&layout=compact">
 
 <!--
