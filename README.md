@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/lennertderyck/lennertderyck/b04d426167116c9ec65a487cea451bdf143addec/BANNERS/BANNER_CENTER.svg)
+
 ### Hi there 👋
 Let me introduce my self.
 
