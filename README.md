@@ -9,6 +9,10 @@ I like clean design, nice illustrations and stunning photography; With a lot of 
 
 Nowadays I focus on webdesign & -development, but my passion for print is still there. Tactile, tangible, analog, as only one medium can. With a background in graphic design I try to combine code and design in the best possible way.
 
+### Tools & frameworks
+<img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+
+
 
 ### My work
 _ Personal 👉 [lennertderyck.be](https://beta.lennertderyck.be)<br>
