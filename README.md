@@ -1,7 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/lennertderyck/lennertderyck/b04d426167116c9ec65a487cea451bdf143addec/BANNERS/BANNER_CENTER.svg)
 
 ### Hi there 👋
-Let me introduce my self.
+Let me introduce myself.
 
 My name is Lennert and I'm a student Front-end-develoment at Artevelde University College Ghent. 
 
