@@ -3,7 +3,7 @@
 ### Hi there 👋
 Let me introduce my self.
 
-My name is Lennert as you will already have noticed and I'm a student Front-end-develoment at Artevelde University College Ghent. 
+My name is Lennert and I'm a student Front-end-develoment at Artevelde University College Ghent. 
 
 I like clean design, nice illustrations and stunning photography; With a lot of passion for the profession. You  recognize my style by the generous use of white space, just enough letter spacing and a nice contrast that is created by combining fonts.
 
