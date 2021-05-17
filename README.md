@@ -5,9 +5,9 @@ Let me introduce myself.
 
 My name is Lennert and I'm a student Front-end-develoment at Artevelde University College Ghent. 
 
-I like clean design, nice illustrations and stunning photography; With a lot of passion for the profession. You  recognize my style by the generous use of white space, just enough letter spacing and a nice contrast that is created by combining fonts.
+Creating delicious web snacks with JavaScript, cooking up awesome websites and apps.
 
-Nowadays I focus on webdesign & -development, but my passion for print is still there. Tactile, tangible, analog, as only one medium can. With a background in graphic design I try to combine code and design in the best possible way.
+I'm comfortable with JavaScript, HTML5, CSS, SASS, Node.js, Parcel, React, React Native, Electron, Next.js, Vue.js, 11ty and creating REST API's with Express or GraphQL.
 
 ### Tools & frameworks
 <img align="left" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
