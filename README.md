@@ -26,7 +26,7 @@ _ School 👉 [git.ahs.lennertderyck.be](http://git.ahs.lennertderyck.be/)
 
 ### Let's talk
 _ Mail [hello@lennertderyck.be](mailto:hello@lennertderyck.be)<br>
-_ Website [lennertderyck.be](https://beta.lennertderyck.be)<br>
+_ Website [www.jung.gent](https://jung.gent)<br>
 _ Instagram [@lennertderyck](https://www.instagram.com/lennertderyck/)<br>
 _ LinkedIn [@lennertderyck](https://www.linkedin.com/in/lenndertderyck/)
 
@@ -53,3 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=twoledery&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=twoledery&redirect=true)
