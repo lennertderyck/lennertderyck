@@ -3,7 +3,7 @@
 ### Hi there 👋
 Let me introduce myself.
 
-My name is Lennert and I'm a student Front-end-develoment at Artevelde University College Ghent. 
+My name is Lennert, a young developer that graduated at Artevelde University College Ghent as a full-stack JavaScript developer, currently working at Sweet Mustard in the far West of Flanders.
 
 Creating delicious web snacks with JavaScript, cooking up awesome websites and apps.
 
@@ -30,6 +30,9 @@ _ Website [www.jung.gent](https://jung.gent)<br>
 _ Instagram [@lennertderyck](https://www.instagram.com/lennertderyck/)<br>
 _ LinkedIn [@lennertderyck](https://www.linkedin.com/in/lenndertderyck/)
 
+
+<br />
+<br />
 
 Oh, and I like cheese
 
