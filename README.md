@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/lennertderyck/lennertderyck/b04d426167116c9ec65a487cea451bdf143addec/BANNERS/BANNER_CENTER.svg)
+![Logo banner](https://raw.githubusercontent.com/lennertderyck/lennertderyck/master/BANNERS/1613136284570.jpeg)
 
 ### Hi there 👋
 Let me introduce myself.
