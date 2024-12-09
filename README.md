@@ -3,11 +3,11 @@
 ### Hi there 👋
 Let me introduce myself.
 
-My name is Lennert, a young developer that graduated at Artevelde University College Ghent as a full-stack JavaScript developer, currently working at Sweet Mustard in the far West of Flanders.
+I'm Lennert, a young web and mobile developer working for Sweet Mustard in the far West of Flanders; Creating delicious web snacks with TypeScript, cooking up awesome websites and apps. 
 
-Creating delicious web snacks with JavaScript, cooking up awesome websites and apps.
+I have a background in graphic design, but graduated as a full-stack JavaScript developer at the Artevelde University College Ghent in 2021.
 
-I'm comfortable with JavaScript, HTML5, CSS, SASS, Node.js, Parcel, React, React Native, Electron, Next.js, Vue.js, 11ty and creating REST API's with Express or GraphQL.
+I'm comfortable with JavaScript, TypeScript HTML5, CSS, SASS, Node.js, Parcel, React, React Native, Electron, Next.js, Vue.js, 11ty and creating REST API's with Express or GraphQL.
 
 ### Tools & frameworks
 <img align="left" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
@@ -21,7 +21,7 @@ I'm comfortable with JavaScript, HTML5, CSS, SASS, Node.js, Parcel, React, React
 <br>and more ...
 
 ### My work
-_ Personal 👉 [lennertderyck.be](https://beta.lennertderyck.be)<br>
+_ Personal 👉 [www.jung.gent](https://www.jung.gent)<br>
 _ School 👉 [git.ahs.lennertderyck.be](http://git.ahs.lennertderyck.be/)
 
 ### Let's talk
