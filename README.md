@@ -1,5 +1,3 @@
-![Logo banner](https://raw.githubusercontent.com/lennertderyck/lennertderyck/master/BANNERS/1613136284570.jpeg)
-
 ### Hi there 👋
 Let me introduce myself.
 
