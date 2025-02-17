@@ -5,7 +5,7 @@ I'm Lennert, a young web and mobile developer working for Sweet Mustard in the f
 
 I have a background in graphic design, but graduated as a full-stack JavaScript developer at the Artevelde University College Ghent in 2021.
 
-I'm comfortable with JavaScript, TypeScript HTML5, CSS, SASS, Node.js, Parcel, React, React Native, Electron, Next.js, Vue.js, 11ty and creating REST API's with Express or GraphQL.
+I'm comfortable with TypeScript, JavaScript, HTML5, CSS, SASS, Node.js, Parcel, React, React Native, Electron, Next.js, Vue.js, 11ty and creating REST API's with Express or GraphQL.
 
 ### Tools & frameworks
 <img align="left" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
