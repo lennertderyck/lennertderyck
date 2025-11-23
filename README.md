@@ -1,6 +1,4 @@
 ### Hi there 👋
-Let me introduce myself.
-
 I'm Lennert, a young web and mobile developer working for Sweet Mustard in the far West of Flanders; Creating delicious web snacks with TypeScript, cooking up awesome websites and apps. 
 
 I have a background in graphic design, but graduated as a full-stack JavaScript developer at the Artevelde University College Ghent in 2021.
